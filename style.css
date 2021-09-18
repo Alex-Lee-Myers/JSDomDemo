@@ -1,0 +1,29 @@
+/* CSS for main two divs and body */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: lightcoral;
+    height: 10vh;
+    width: 100vw;
+}
+
+#bioSection {
+    border: 5px solid black;
+    height: 60vh;
+    margin-left: 10vw;
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    width: 80vw;
+}
+
+#apiData {
+    border: 5px solid black;
+    height: 80vw;
+    margin-bottom: 10vh;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    width: 80vw;
+}
